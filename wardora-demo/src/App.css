@@ -1473,7 +1473,7 @@ select:focus {
     grid-template-columns: 1fr;
   }
 .logo{
-  width:80px;
+  width:30px;
   height:auto;
   object-fit:contain;
 }
