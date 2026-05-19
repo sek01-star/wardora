@@ -21,7 +21,7 @@ function PlansPage({ isPremium, navigate }) {
         />
         <PlanCard
           name="Unlimited Couture"
-          price="29 lei"
+          price="4.99€ / lună"
           highlighted
           active={isPremium}
           features={["sugestii nelimitate", "recomandari shopping", "istoric outfituri", "garderoba prietenilor"]}
