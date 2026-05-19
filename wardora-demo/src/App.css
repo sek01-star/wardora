@@ -170,7 +170,7 @@ img {
   border-color: rgba(255, 255, 255, 0.42);
   background: rgba(255, 255, 255, 0.14);
   color: #fff;
-  backdrop-filter: blur(12px);
+  backdrop-filter: none;
 }
 
 .small {
@@ -803,7 +803,7 @@ select:focus {
   height: 70px;
   border-radius: 999px;
   background: rgba(217, 79, 155, 0.22);
-  filter: blur(20px);
+  filter: none;
 }
 
 .avatar-info {
