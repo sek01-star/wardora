@@ -21,7 +21,6 @@
 body {
   margin: 0;
   min-width: 320px;
-  background: #fbf8ff;
   color: var(--ink);
   font-family:
     Inter,
@@ -803,7 +802,7 @@ select:focus {
   height: 70px;
   border-radius: 999px;
   background: rgba(217, 79, 155, 0.22);
-  filter: 20px;
+  filter: blur(20px);
 }
 
 .avatar-info {
