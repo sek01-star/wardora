@@ -94,7 +94,7 @@ function LandingPage({ navigate, openAuth }) {
         </div>
         <div className="plan-card highlighted">
           <div className="plan-heading"><span>Wardora Unlimited Couture</span></div>
-          <strong>29 lei</strong>
+          <strong>4.99€ / lună</strong>
           <p>Outfituri nelimitate, AI detaliat, shopping si istoric.</p>
           <button className="primary-button" type="button" onClick={() => navigate("plans")}>Vezi pricing</button>
         </div>
