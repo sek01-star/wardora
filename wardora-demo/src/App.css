@@ -66,7 +66,7 @@ img {
   width: min(1180px, calc(100% - 32px));
   margin: 0 auto;
   padding: 14px 0;
-  backdrop-filter: blur(16px);
+  backdrop-filter: none;
 }
 
 .brand-mark,
@@ -1473,7 +1473,7 @@ select:focus {
     grid-template-columns: 1fr;
   }
 .logo{
-  width:60px;
+  width: 20px;px;
   height:auto;
   object-fit:contain;
 }
