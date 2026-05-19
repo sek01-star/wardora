@@ -13,8 +13,7 @@ function Header({ account, isPremium, page, onNavigate, onAuth, onLogout }) {
   return (
     <header className="site-header">
       <button className="brand-mark" type="button" onClick={() => go("landing")} aria-label="Wardora home">
-        <span>W</span>
-        <strong>Wardora</strong>
+  <img src="/logo.png" alt="Wardora" className="logo" />
       </button>
 
       <nav className="desktop-nav" aria-label="Navigatie principala">

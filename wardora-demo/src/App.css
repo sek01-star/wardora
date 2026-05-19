@@ -1472,4 +1472,10 @@ select:focus {
   .history-row {
     grid-template-columns: 1fr;
   }
+.logo{
+  width:160px;
+  height:auto;
+  object-fit:contain;
 }
+}
+
